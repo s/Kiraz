@@ -1,4 +1,4 @@
-package com.saidozcan.kiraz;
+package com.saidozcan.kiraz.Core;
 
 import zemberek.morphology.analysis.WordAnalysis;
 import zemberek.morphology.analysis.tr.TurkishMorphology;
